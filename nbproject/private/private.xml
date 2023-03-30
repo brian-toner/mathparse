@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <data xmlns="http://www.netbeans.org/ns/make-project-private/1">
+        <activeConfTypeElem>1</activeConfTypeElem>
+        <activeConfIndexElem>0</activeConfIndexElem>
+    </data>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="Group 20140611-11:27:52">
+            <file>file:/home/brian/NetBeansProjects/MathParse2/main.cpp</file>
+            <file>file:/home/brian/NetBeansProjects/MathParse2/VariableList.h</file>
+            <file>file:/home/brian/NetBeansProjects/MathParse2/OperatorList.h</file>
+            <file>file:/home/brian/NetBeansProjects/MathParse2/stringfuncts.cpp</file>
+            <file>file:/home/brian/NetBeansProjects/MathParse2/FunctionList.h</file>
+            <file>file:/home/brian/NetBeansProjects/MathParse2/stringfuncts.h</file>
+            <file>file:/home/brian/NetBeansProjects/MathParse2/Parser.h</file>
+            <file>file:/home/brian/NetBeansProjects/MathParse2/Parser.cpp</file>
+            <file>file:/home/brian/NetBeansProjects/MathParse2/FunctionList.cpp</file>
+            <file>file:/home/brian/NetBeansProjects/MathParse2/operators.cpp</file>
+            <file>file:/home/brian/NetBeansProjects/MathParse2/operators.h</file>
+            <file>file:/home/brian/NetBeansProjects/MathParse2/HashList.h</file>
+            <file>file:/home/brian/NetBeansProjects/MathParse2/OperatorList.cpp</file>
+        </group>
+        <group name="MathEval">
+            <file>file:/home/brian/NetBeansProjects/MathParse2/OperatorList.cpp</file>
+            <file>file:/home/brian/NetBeansProjects/MathParse2/OperatorList.h</file>
+            <file>file:/home/brian/NetBeansProjects/MathParse2/HashList.h</file>
+            <file>file:/home/brian/NetBeansProjects/MathParse2/operators.cpp</file>
+            <file>file:/home/brian/NetBeansProjects/MathParse2/operators.h</file>
+            <file>file:/home/brian/NetBeansProjects/MathParse2/FunctionList.h</file>
+            <file>file:/home/brian/NetBeansProjects/MathParse2/FunctionList.cpp</file>
+            <file>file:/home/brian/NetBeansProjects/MathParse2/HashList.cpp</file>
+            <file>file:/home/brian/NetBeansProjects/MathParse2/VariableList.h</file>
+            <file>file:/home/brian/NetBeansProjects/MathParse2/VariableList.cpp</file>
+            <file>file:/home/brian/NetBeansProjects/MathParse2/argstring.cpp</file>
+            <file>file:/home/brian/NetBeansProjects/MathParse2/stringfuncts.cpp</file>
+            <file>file:/home/brian/NetBeansProjects/MathParse2/Parser.cpp</file>
+            <file>file:/home/brian/NetBeansProjects/MathParse2/Parser.h</file>
+            <file>file:/home/brian/NetBeansProjects/MathParse2/stringfuncts.h</file>
+            <file>file:/home/brian/NetBeansProjects/MathParse2/main.cpp</file>
+            <file>file:/home/brian/NetBeansProjects/MathParse2/argstring.h</file>
+            <file>file:/home/brian/NetBeansProjects/MathParse2/parsefunctions.h</file>
+            <file>file:/home/brian/NetBeansProjects/MathParse2/parsefunctions.cpp</file>
+        </group>
+        <group name="Azrael">
+            <file>file:/home/brian/NetBeansProjects/MathParse2/main.cpp</file>
+            <file>file:/home/brian/NetBeansProjects/MathParse2/FunctionList.cpp</file>
+            <file>file:/home/brian/NetBeansProjects/MathParse2/stringfuncts.cpp</file>
+            <file>file:/home/brian/NetBeansProjects/MathParse2/FunctionList.h</file>
+            <file>file:/home/brian/NetBeansProjects/MathParse2/stringfuncts.h</file>
+            <file>file:/home/brian/NetBeansProjects/MathParse2/HashList.h</file>
+        </group>
+        <group name="BreastAnalysisNew">
+            <file>file:/home/brian/NetBeansProjects/MathParse2/FunctionList.cpp</file>
+            <file>file:/home/brian/NetBeansProjects/MathParse2/FunctionList.h</file>
+            <file>file:/home/brian/NetBeansProjects/MathParse2/HashList.h</file>
+            <file>file:/home/brian/NetBeansProjects/MathParse2/stringfuncts.cpp</file>
+            <file>file:/home/brian/NetBeansProjects/MathParse2/stringfuncts.h</file>
+            <file>file:/home/brian/NetBeansProjects/MathParse2/main.cpp</file>
+        </group>
+        <group>
+            <file>file:/home/brian/git-work/MathParse2/operators.h</file>
+            <file>file:/home/brian/git-work/MathParse2/parsefunctions.cpp</file>
+            <file>file:/home/brian/git-work/MathParse2/parsefunctions.h</file>
+            <file>file:/home/brian/git-work/MathParse2/HashList.h</file>
+            <file>file:/home/brian/git-work/MathParse2/OperatorList.h</file>
+            <file>file:/home/brian/git-work/MathParse2/stringfuncts.h</file>
+            <file>file:/home/brian/git-work/MathParse2/operators.cpp</file>
+            <file>file:/home/brian/git-work/MathParse2/FunctionList.h</file>
+            <file>file:/home/brian/git-work/MathParse2/FunctionList.cpp</file>
+            <file>file:/home/brian/git-work/MathParse2/argstring.h</file>
+            <file>file:/home/brian/git-work/MathParse2/Parser.h</file>
+            <file>file:/home/brian/git-work/MathParse2/HashList.cpp</file>
+            <file>file:/home/brian/git-work/MathParse2/main.cpp</file>
+            <file>file:/home/brian/git-work/MathParse2/VariableList.h</file>
+        </group>
+    </open-files>
+</project-private>

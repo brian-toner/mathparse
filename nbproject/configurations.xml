@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="94">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+      <itemPath>FunctionList.h</itemPath>
+      <itemPath>HashList.h</itemPath>
+      <itemPath>OperatorList.h</itemPath>
+      <itemPath>Parser.h</itemPath>
+      <itemPath>VariableList.h</itemPath>
+      <itemPath>argstring.h</itemPath>
+      <itemPath>operators.h</itemPath>
+      <itemPath>parsefunctions.h</itemPath>
+      <itemPath>stringfuncts.h</itemPath>
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <itemPath>FunctionList.cpp</itemPath>
+      <itemPath>HashList.cpp</itemPath>
+      <itemPath>OperatorList.cpp</itemPath>
+      <itemPath>Parser.cpp</itemPath>
+      <itemPath>VariableList.cpp</itemPath>
+      <itemPath>argstring.cpp</itemPath>
+      <itemPath>main.cpp</itemPath>
+      <itemPath>operators.cpp</itemPath>
+      <itemPath>parsefunctions.cpp</itemPath>
+      <itemPath>stringfuncts.cpp</itemPath>
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+      </compileType>
+      <item path="FunctionList.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="FunctionList.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="HashList.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="HashList.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="OperatorList.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="OperatorList.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Parser.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Parser.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="VariableList.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="VariableList.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="argstring.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="argstring.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="operators.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="operators.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="parsefunctions.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="parsefunctions.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="stringfuncts.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="stringfuncts.h" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+      </compileType>
+      <item path="FunctionList.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="FunctionList.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="HashList.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="HashList.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="OperatorList.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="OperatorList.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Parser.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Parser.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="VariableList.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="VariableList.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="argstring.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="argstring.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="operators.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="operators.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="parsefunctions.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="parsefunctions.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="stringfuncts.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="stringfuncts.h" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>
